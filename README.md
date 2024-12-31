@@ -1,0 +1,2 @@
+# dio_metodos_segmentacao_opencv
+# dio_metodos_segmentacao_opencv
